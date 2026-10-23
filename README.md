@@ -1,5 +1,7 @@
 # Punch guides
 
+![Punch: one developer plus agents against the full stack. Typed Crystal, one binary, SQLite.](punch-social-c.png)
+
 The guides teach Punch by task, from a first app to running one in production. Each says up front what you will know after reading it, quotes working code from the reference app, and ends with its rules. For every option of a feature, follow its link to the reference page.
 
 Punch 0.x is not released: anything may change between minor versions.
